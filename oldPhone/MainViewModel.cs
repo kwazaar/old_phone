@@ -138,7 +138,7 @@ namespace oldPhone
             int minDistance = int.MaxValue;
 
             var filteredDictionary = dictionary
-                                    .Where(dictWord => Math.Abs(dictWord.Length - word.Length) <= 2)
+                                    .Where(dictWord => Math.Abs(dictWord.Length - word.Length) <= 1)
                                     .ToList();
 
             foreach (var dictWord in filteredDictionary)
@@ -162,10 +162,10 @@ namespace oldPhone
             int[,] costs = new int[input.Length + 1, dictWord.Length + 1];
 
             for (int i = 0; i <= input.Length; i++)
-                costs[i, 0] = i;
+                costs[i, 0] = i * 2; 
 
             for (int j = 0; j <= dictWord.Length; j++)
-                costs[0, j] = j;
+                costs[0, j] = j * 2; 
 
             for (int i = 1; i <= input.Length; i++)
             {
@@ -173,7 +173,8 @@ namespace oldPhone
                 {
                     int cost = GetCharMappingCost(input[i - 1], dictWord[j - 1]);
                     costs[i, j] = Math.Min(
-                        Math.Min(costs[i - 1, j] + 1, costs[i, j - 1] + 1),
+                        Math.Min(costs[i - 1, j] + 2, 
+                                 costs[i, j - 1] + 2), 
                         costs[i - 1, j - 1] + cost);
                 }
             }
@@ -183,15 +184,21 @@ namespace oldPhone
 
         private int GetCharMappingCost(char inputChar, char dictChar)
         {
+            if (char.ToUpper(inputChar) == char.ToUpper(dictChar))
+            {
+                return 0;
+            }
+
             foreach (var keyMapping in keyMappings)
             {
                 if (keyMapping.Value.Contains(inputChar.ToString().ToUpper()) &&
                     keyMapping.Value.Contains(dictChar.ToString().ToUpper()))
                 {
-                    return 0;
+                    return 1; 
                 }
             }
-            return 1;
+
+            return 3;
         }
 
         private HashSet<string> LoadDictionary(string filePath)

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|solutionrelative:oldphone\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|c:\\users\\ma.sizov\\source\\repos\\oldphone\\oldphone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|solutionrelative:oldphone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|c:\\users\\ma.sizov\\source\\repos\\oldphone\\oldphone\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldphone\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|solutionrelative:oldphone\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|c:\\users\\ma.sizov\\source\\repos\\oldphone\\oldphone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldphone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|solutionrelative:oldphone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldphone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E6681BE-500D-4BB1-955D-AFB76284A17D}|oldPhone\\oldPhone.csproj|solutionrelative:oldphone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,16 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldPhone\\RelayCommand.cs",
               "RelativeDocumentMoniker": "oldPhone\\RelayCommand.cs",
               "ToolTip": "C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldPhone\\RelayCommand.cs",
               "RelativeToolTip": "oldPhone\\RelayCommand.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAnwBwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:32:02.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T06:32:02.873Z"
             },
             {
               "$type": "Document",
@@ -57,22 +56,21 @@
               "RelativeDocumentMoniker": "oldPhone\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldPhone\\MainViewModel.cs",
               "RelativeToolTip": "oldPhone\\MainViewModel.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAwwHoAAAAMAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwMcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T06:30:52.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldPhone\\MainWindow.xaml",
               "RelativeDocumentMoniker": "oldPhone\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\ma.sizov\\source\\repos\\oldPhone\\oldPhone\\MainWindow.xaml",
               "RelativeToolTip": "oldPhone\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T06:22:56.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T06:22:56.112Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "oldPhone\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T06:22:55.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T06:22:55.279Z"
             }
           ]
         }
