@@ -1,0 +1,15 @@
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.csproj.AssemblyReference.cache
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\MainWindow.g.cs
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\App.g.cs
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone_MarkupCompile.cache
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone_MarkupCompile.lref
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\bin\Debug\oldPhone.exe.config
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\bin\Debug\oldPhone.exe
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\bin\Debug\oldPhone.pdb
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\MainWindow.baml
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.g.resources
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.Properties.Resources.resources
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.csproj.GenerateResource.cache
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.csproj.CoreCompileInputs.cache
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.exe
+C:\Users\ma.sizov\source\repos\oldPhone\oldPhone\obj\Debug\oldPhone.pdb
